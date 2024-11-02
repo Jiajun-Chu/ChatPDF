@@ -1,0 +1,8 @@
+langchain-chroma==0.1.3
+datasets==2.21.0
+huggingface==0.0.1
+langchain-groq==0.1.9
+langchain_huggingface==0.0.3
+langchain_community==0.2.16
+langchain==0.2.16
+pypdf==4.3.1
