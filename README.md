@@ -24,7 +24,7 @@ This is an entry-level practice project aimed at understanding the basic workflo
 5. **Query**: Once ingestion is complete, start querying the documents.
 
 <figure style="text-align:center;"> 
-  <img src="./doc/ui.png" alt="Workflow" width="600">
+  <img src="./doc/ui.png" alt="Workflow">
   <figcaption>figure2 UI</figcaption>
 </figure>
 
