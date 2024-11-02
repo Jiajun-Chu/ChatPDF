@@ -6,7 +6,10 @@ ChatPDF is a text-based conversational tool built on Retrieval-Augmented Generat
 
 This is an entry-level practice project aimed at understanding the basic workflow of RAG and familiarizing with common machine learning tools such as **HuggingFace, LangChain, and Chroma**. Below is a basic workflow diagram of ChatPDF:
 
-<Insert workflow diagram here>
+<figure style="text-align:center;"> 
+  <img src="./doc/workflow.png" alt="Workflow" width="300">
+  <figcaption>figure1 Workflow</figcaption>
+</figure>
 
 ## Depolyment
 
@@ -19,6 +22,11 @@ This is an entry-level practice project aimed at understanding the basic workflo
 4. **Upload PDFs**: Add your PDFs via the interface.
 
 5. **Query**: Once ingestion is complete, start querying the documents.
+
+<figure style="text-align:center;"> 
+  <img src="./doc/ui.png" alt="Workflow" width="600">
+  <figcaption>figure2 UI</figcaption>
+</figure>
 
 ## Configuration
 
